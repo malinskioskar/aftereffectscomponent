@@ -1,0 +1,7 @@
+COP SHOOT BONUS DETAILS:
+
+cop_gun_Hammer_anim_New Should be help on frame 1 until the gun is fired.
+
+The GUN recoil/rotation and gunfire animation should play at the last frame of cop_gun_Hammer_anim_New, 
+
+coordinates for the gunfire animation are X=1508, Y=982

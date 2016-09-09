@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<movie service="Xml Gibson-1.0">
+  <composition duration="0.5" width="2272" height="1536" framerate="24" par="1" bgcolor="0,0,0" name="cop anim export shoot">
+    <layer enabled="true" index="1" name="cop_gun_Hammer_anim_New_[00000-00006].png" type="Footage" width="710" height="996" in="0" out="0.29166666666667" start="0" threeD="false" separated="false" locked="false" istrkmatte="false" hastrkmatte="false" trktype="None">
+      <source duration="0.29166666666667" width="710" height="996" framerate="24" par="1" video="true" audio="false" missing="false" path="/c/Users/julian.peacock/Google Drive/Creative/JPJ Slots/Internal/Mafia/Art/iPad_Retina_(Master)/Bonus/cop_shooter/AE output/cop_gun_Hammer_anim/cop_gun_Hammer_anim_New_00000.png"/>
+      <group name="Marker"/>
+      <group name="Time_Remap"/>
+      <group name="Motion_Trackers"/>
+      <group name="Masks"/>
+      <group name="Effects"/>
+      <group name="Transform">
+        <property type="Anchor_Point">
+          <key value="592,866,0" time="0"/>
+        </property>
+        <property type="Position">
+          <key value="2305,1743.97586038034,0" time="0" interp_in="null" interp_out="null" in_speed="0" out_speed="0" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="0,0,0" spatial_tan_out="0,0,0"/>
+        </property>
+        <property type="Scale">
+          <key value="100,100,100" time="0" interp_in="null" interp_out="null" in_speed="0" out_speed="0" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+          <key value="100,100,100" time="0.04166666666667" interp_in="null" interp_out="null" in_speed="0" out_speed="0" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+        </property>
+        <property type="Rotation">
+          <key value="-10" time="0" interp_in="null" interp_out="null" in_speed="0" out_speed="0" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+          <key value="-10" time="0.20833333333333" interp_in="null" interp_out="null" in_speed="0" out_speed="300" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+          <key value="15" time="0.29166666666667" interp_in="null" interp_out="null" in_speed="300" out_speed="0" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+        </property>
+        <property type="Opacity">
+          <key value="100" time="0"/>
+        </property>
+      </group>
+      <group name="Layer_Styles"/>
+      <group name="Geometry_Options"/>
+      <group name="Geometry_Options"/>
+      <group name="Material_Options"/>
+      <group name="Audio"/>
+    </layer>
+    <layer enabled="true" index="2" name="cop_gun_Hammer_anim_New_00000.png" type="Footage" width="710" height="996" in="0.29166666666667" out="0.5" start="-0.04166666666667" threeD="false" separated="false" locked="false" istrkmatte="false" hastrkmatte="false" trktype="None">
+      <source duration="0" width="710" height="996" framerate="0" par="1" video="true" audio="false" missing="false" path="/c/Users/julian.peacock/Google Drive/Creative/JPJ Slots/Internal/Mafia/Art/iPad_Retina_(Master)/Bonus/cop_shooter/AE output/cop_gun_Hammer_anim/cop_gun_Hammer_anim_New_00000.png"/>
+      <group name="Marker"/>
+      <group name="Time_Remap"/>
+      <group name="Motion_Trackers"/>
+      <group name="Masks"/>
+      <group name="Effects"/>
+      <group name="Transform">
+        <property type="Anchor_Point">
+          <key value="592,866,0" time="0"/>
+        </property>
+        <property type="Position">
+          <key value="2305,1743.97586038034,0" time="0"/>
+        </property>
+        <property type="Scale">
+          <key value="100,100,100" time="0"/>
+        </property>
+        <property type="Rotation">
+          <key value="15" time="0.29166666666667" interp_in="null" interp_out="null" in_speed="0" out_speed="-342" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+          <key value="-13.5" time="0.375" interp_in="null" interp_out="null" in_speed="-342" out_speed="42" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+          <key value="-10" time="0.45833333333333" interp_in="null" interp_out="null" in_speed="42" out_speed="0" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+        </property>
+        <property type="Opacity">
+          <key value="100" time="0.29166666666667" interp_in="null" interp_out="null" in_speed="0" out_speed="0" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+        </property>
+      </group>
+      <group name="Layer_Styles"/>
+      <group name="Geometry_Options"/>
+      <group name="Geometry_Options"/>
+      <group name="Material_Options"/>
+      <group name="Audio"/>
+    </layer>
+    <layer enabled="true" index="3" name="Gun.png" type="Footage" width="710" height="996" in="0" out="0.5" start="-0.04166666666667" threeD="false" separated="false" locked="false" istrkmatte="false" hastrkmatte="false" trktype="None">
+      <source duration="0" width="710" height="996" framerate="0" par="1" video="true" audio="false" missing="false" path="/c/Users/julian.peacock/Google Drive/Creative/JPJ Slots/Internal/Mafia/Art/iPad_Retina_(Master)/Bonus/cop_shooter/Gun.png"/>
+      <group name="Marker"/>
+      <group name="Time_Remap"/>
+      <group name="Motion_Trackers"/>
+      <group name="Masks"/>
+      <group name="Effects"/>
+      <group name="Transform">
+        <property type="Anchor_Point">
+          <key value="592,866,0" time="0"/>
+        </property>
+        <property type="Position">
+          <key value="2305,1743.97586038034,0" time="0" interp_in="null" interp_out="null" in_speed="0" out_speed="0" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="0,0,0" spatial_tan_out="0,0,0"/>
+        </property>
+        <property type="Scale">
+          <key value="100,100,100" time="0" interp_in="null" interp_out="null" in_speed="0" out_speed="0" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+        </property>
+        <property type="Rotation">
+          <key value="-10" time="0" interp_in="null" interp_out="null" in_speed="0" out_speed="0" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+          <key value="-10" time="0.20833333333333" interp_in="null" interp_out="null" in_speed="0" out_speed="300" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+          <key value="15" time="0.29166666666667" interp_in="null" interp_out="null" in_speed="300" out_speed="-342" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+          <key value="-13.5" time="0.375" interp_in="null" interp_out="null" in_speed="-342" out_speed="42" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+          <key value="-10" time="0.45833333333333" interp_in="null" interp_out="null" in_speed="42" out_speed="0" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+        </property>
+        <property type="Opacity">
+          <key value="100" time="0"/>
+        </property>
+      </group>
+      <group name="Layer_Styles"/>
+      <group name="Geometry_Options"/>
+      <group name="Geometry_Options"/>
+      <group name="Material_Options"/>
+      <group name="Audio"/>
+    </layer>
+    <layer enabled="true" index="4" name="gunfire_[00001-00005].png" type="Footage" width="966" height="886" in="0.20833333333333" out="0.41666666666667" start="0.20833333333333" threeD="false" separated="false" locked="false" istrkmatte="false" hastrkmatte="false" trktype="None">
+      <source duration="0.20833333333333" width="966" height="886" framerate="24" par="1" video="true" audio="false" missing="false" path="/r/London/Departments/SocialGaming/Creative/JPJ Slots/Internal/Mafia/iOS/iPad_Retina/Bonus/cop_shoot/gunfire/gunfire_00001.png"/>
+      <group name="Marker"/>
+      <group name="Time_Remap"/>
+      <group name="Motion_Trackers"/>
+      <group name="Masks"/>
+      <group name="Effects"/>
+      <group name="Transform">
+        <property type="Anchor_Point">
+          <key value="483,443,0" time="0"/>
+        </property>
+        <property type="Position">
+          <key value="1540,992,0" time="0"/>
+        </property>
+        <property type="Scale">
+          <key value="100,100,100" time="0"/>
+        </property>
+        <property type="Rotation">
+          <key value="0" time="0"/>
+        </property>
+        <property type="Opacity">
+          <key value="100" time="0"/>
+        </property>
+      </group>
+      <group name="Layer_Styles"/>
+      <group name="Geometry_Options"/>
+      <group name="Geometry_Options"/>
+      <group name="Material_Options"/>
+      <group name="Audio"/>
+    </layer>
+  </composition>
+</movie>

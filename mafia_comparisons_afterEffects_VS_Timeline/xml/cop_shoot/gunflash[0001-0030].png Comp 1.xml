@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<movie service="Xml Gibson-1.0">
+  <composition duration="1.25" width="1506" height="1506" framerate="24" par="1" bgcolor="0,0,0" name="gunflash[0001-0030].png Comp 1">
+    <layer enabled="true" index="2" name="gunflash[0001-0030].png" type="Footage" width="1300" height="1300" in="0" out="1.25" start="0" threeD="false" separated="false" locked="false" istrkmatte="false" hastrkmatte="false" trktype="None">
+      <source duration="1.25" width="1300" height="1300" framerate="24" par="1" video="true" audio="false" missing="false" path="/c/Users/julian.peacock/Google Drive/Creative/JPJ Slots/Internal/Mafia/Art/iPad_Retina_(Master)/Bonus/cop_shooter/PI/gunflash_1/gunflash0001.png"/>
+      <group name="Marker"/>
+      <group name="Time_Remap">
+        <key value="0" time="0"/>
+        <key value="1.25" time="0.25"/>
+      </group>
+      <group name="Motion_Trackers"/>
+      <group name="Masks"/>
+      <group name="Effects"/>
+      <group name="Transform">
+        <property type="Anchor_Point">
+          <key value="650,650,0" time="0"/>
+        </property>
+        <property type="Position">
+          <key value="753,753,0" time="0"/>
+        </property>
+        <property type="Scale">
+          <key value="100,100,100" time="0"/>
+        </property>
+        <property type="Rotation">
+          <key value="0" time="0"/>
+        </property>
+        <property type="Opacity">
+          <key value="100" time="0.125" interp_in="null" interp_out="null" in_speed="0" out_speed="-800" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+          <key value="0" time="0.25" interp_in="null" interp_out="null" in_speed="-800" out_speed="0" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+        </property>
+      </group>
+      <group name="Layer_Styles"/>
+      <group name="Geometry_Options"/>
+      <group name="Geometry_Options"/>
+      <group name="Material_Options"/>
+      <group name="Audio"/>
+    </layer>
+    <layer enabled="false" index="3" name="gunflash[0001-0030].png" type="Footage" width="1300" height="1300" in="0" out="1.25" start="0" threeD="false" separated="false" locked="false" istrkmatte="true" hastrkmatte="false" trktype="None">
+      <source duration="1.25" width="1300" height="1300" framerate="24" par="1" video="true" audio="false" missing="false" path="/c/Users/julian.peacock/Google Drive/Creative/JPJ Slots/Internal/Mafia/Art/iPad_Retina_(Master)/Bonus/cop_shooter/PI/gunflash_1/gunflash0001.png"/>
+      <group name="Marker"/>
+      <group name="Time_Remap">
+        <key value="0" time="0"/>
+        <key value="1.25" time="0.25"/>
+      </group>
+      <group name="Motion_Trackers"/>
+      <group name="Masks"/>
+      <group name="Effects"/>
+      <group name="Transform">
+        <property type="Anchor_Point">
+          <key value="650,650,0" time="0"/>
+        </property>
+        <property type="Position">
+          <key value="753,753,0" time="0"/>
+        </property>
+        <property type="Scale">
+          <key value="100,100,100" time="0"/>
+        </property>
+        <property type="Rotation">
+          <key value="0" time="0"/>
+        </property>
+        <property type="Opacity">
+          <key value="100" time="0.125" interp_in="null" interp_out="null" in_speed="0" out_speed="-800" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+          <key value="0" time="0.25" interp_in="null" interp_out="null" in_speed="-800" out_speed="0" in_influence="16.666666667" out_influence="16.666666667" spatial_tan_in="null" spatial_tan_out="null"/>
+        </property>
+      </group>
+      <group name="Layer_Styles"/>
+      <group name="Geometry_Options"/>
+      <group name="Geometry_Options"/>
+      <group name="Material_Options"/>
+      <group name="Audio"/>
+    </layer>
+    <layer enabled="true" index="4" name="Orange Solid 1" type="Solid" width="2000" height="1000" in="0" out="1.25" start="0" threeD="false" separated="false" color="1,0.4705882370472,0" locked="false" istrkmatte="false" hastrkmatte="true" trktype="None">
+      <group name="Marker"/>
+      <group name="Time_Remap"/>
+      <group name="Motion_Trackers"/>
+      <group name="Masks"/>
+      <group name="Effects"/>
+      <group name="Transform">
+        <property type="Anchor_Point">
+          <key value="1000,500,0" time="0"/>
+        </property>
+        <property type="Position">
+          <key value="753,753,0" time="0"/>
+        </property>
+        <property type="Scale">
+          <key value="157,378,100" time="0"/>
+        </property>
+        <property type="Rotation">
+          <key value="0" time="0"/>
+        </property>
+        <property type="Opacity">
+          <key value="50" time="0"/>
+        </property>
+      </group>
+      <group name="Layer_Styles"/>
+      <group name="Geometry_Options"/>
+      <group name="Geometry_Options"/>
+      <group name="Material_Options"/>
+      <group name="Audio"/>
+    </layer>
+  </composition>
+</movie>
